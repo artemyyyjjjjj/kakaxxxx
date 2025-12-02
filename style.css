@@ -1,0 +1,93 @@
+nav{
+    height: 80px;
+    width: 100%;
+    background-color: rgb(72, 72, 121);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+}
+.nav{
+    border: 3px solid rgb(29, 29, 58);
+    background-color: rgb(93, 93, 146);
+    font-size: 30px;
+    margin: 0 auto;
+}
+body{
+    margin:  0 auto;
+    background-color: rgb(155, 155, 192);
+    display: flex;
+    flex-direction: column;
+}
+div{
+border: 2px red solid;
+}
+.perazd{
+    height: 1000px;
+    width: 100%;
+    margin-top: 80px;
+    display: flex;
+    flex-direction: column;
+}
+.zagol{
+    height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+.zagot{
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 10px;
+}
+.zagpic{
+    display: flex;
+    height: 400px;
+    width: 100%;
+    margin-top: 10px;
+    justify-content: center;
+}
+.megapic{
+    height: 400px ;
+    width: 400px;
+    display: flex;
+    justify-self: center;
+}
+.megadiv{
+    height: 400px ;
+    width: 20%;
+    display: flex;
+    justify-self: center;
+}
+.textpic{
+    text-align: right;
+    height: 100%;
+    width: 40%;
+    font-size: 40px;
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+}
+.textpic2{
+    text-align: right;
+    height: 100%;
+    width: 42%;
+    display: flex;
+    margin-left: 20px;
+}
+.samt1{
+    display: flex;
+    align-self: flex-end;
+    height: 100%;
+    width: 40%;
+    align-items: center;
+}
+.samt2{
+    display: flex;
+    align-self: flex-end;
+    height: 100%;
+    width: 60%;
+    align-items: center;
+}
